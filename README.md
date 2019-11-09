@@ -1,0 +1,1 @@
+Es un ejemplo en donde guardas links con sesiones usando MySQL como base de datos
